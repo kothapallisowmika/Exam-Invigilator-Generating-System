@@ -20,3 +20,9 @@ Faculty members update their available time slots.
 The admin schedules examinations by selecting the date, time, and hall.
 The system displays available invigilators for the selected schedule.
 The admin assigns an invigilator, and the system updates the database automatically.
+**Future Enhancements**
+Email notifications for allocated invigilators
+Automatic allocation using optimization algorithms
+Faculty login and profile management
+Reports and analytics dashboard
+Export schedules as PDF or Excel
